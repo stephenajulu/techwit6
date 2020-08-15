@@ -1,13 +1,30 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: TechWit Ke
+title: TechWit Ke | Quality Tech Content
+description: Welcome to TechWit Ke, Your Trusted Source of Quality Tech,
+  Cybersecurity and Development Content For All
 tags:
   - blog
-  - template
+  - magazine
   - jekyll
-  - theme
-  - netlify
+  - techwit
+  - techwitke
+  - tech
+  - cybersecurity
+  - development
+  - automation
+  - web development
+  - data security
+  - data
+  - security
+  - machine learning
+  - artificial intelligence
+  - startups
+  - business
+  - space
+  - science
+  - database
+  - communication
+  - more
 show_hero: true
 menu:
   - title: Home
@@ -18,5 +35,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: techwit.ke@gmail.com
+disqus_username: techwitke
